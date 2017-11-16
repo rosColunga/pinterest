@@ -1,0 +1,10 @@
+.buscador{
+  width: 965px;
+  height: 40px;
+  border-radius: 5px;
+  background: gray;
+}
+
+ul li{
+  display: inline-block;
+}
