@@ -59,14 +59,21 @@ section.clear > ol {
   color: white;
   padding: 20px 25px;;
   border-radius: 5px;
-  margin: 3px 8px;
+  margin: 3px 10px;
+}
+
+main {
+  margin-left: 10%;
 }
 
 main > section {
-  width: 300px;
+  width: 20%;
+  height: 480px;;
   display: inline-block;
   background: lightblue;
-  margin: 0 10px 0 20px;
+  margin: 0 10px 0 15px;
+  text-align: center;
+  border-radius: 15px;
 }
 
 hr.divi {
